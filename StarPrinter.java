@@ -1,7 +1,7 @@
 /****************************************************************************
  *
  * @author Shane Brennan
- * @date 29th Aug. 2013                    
+ * @date 1st Sept. 2013                    
  * @verion 1.0
  * 
  * Created under Creative Commons licence (CC BY-SA 3.0)
